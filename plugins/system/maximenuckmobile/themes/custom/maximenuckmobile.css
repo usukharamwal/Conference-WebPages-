@@ -1,0 +1,26 @@
+/* Maximenu CK mobile - http://www.joomlack.fr */
+/* Automatic styles generated from the plugin options */
+
+.mobilebarmaximenuck {display:none;position:relative;left:0;top:0;right:0;z-index:100;}
+.mobilebarmaximenuck .mobilebarmenutitleck {display: block;padding-left: 20px;font-size: 15px;color: #1B3A78;height: 33px;font-family: ;}
+.mobilebarmaximenuck .mobilebuttonmaximenuck {cursor:pointer;box-sizing: border-box;position:absolute; top: 0; right: 0;line-height:0.8em;font-family:Segoe UI;text-align: center;font-size: 30px;color: #1B3A78;height: 33px;width: 25px;font-family: ;}
+.mobilemaximenuck {box-sizing: border-box;width: 100%;background: #F5F5F5;background-color: #F5F5F5;border-bottom: #D1D1D1 1px solid ;font-size: 15px;color: #1B3A78;font-family: Open+Sans;}
+.mobilemaximenuck .mobilemaximenucktopbar {position:relative;}
+.mobilemaximenuck .mobilemaximenucktitle {display: block;padding-top: 10px;padding-right: 10px;padding-bottom: 10px;padding-left: 10px;font-family: ;}
+.mobilemaximenuck .mobilemaximenuckclose {cursor:pointer;box-sizing: border-box;position:absolute; top: 0; right: 0;line-height:0.8em;font-family:Segoe UI;text-align: center;height: 31px;width: 31px;font-family: ;}
+.mobilemaximenuck a {display:block;color: #1B3A78;}
+.mobilemaximenuck a:hover {text-decoration: none;}
+.mobilemaximenuck div.maximenuck {position:relative;}
+.mobilemaximenuck div.level1.maximenuck > a {padding-top: 12px;padding-right: 14px;padding-bottom: 12px;padding-left: 14px;background: #F5F5F5;background-color: #F5F5F5;font-family: Open+Sans;}.mobilemaximenuck div.level2.maximenuck > a {padding-top: 12px;padding-right: 20px;padding-bottom: 12px;padding-left: 20px;background: #F5F5F5;background-color: #F5F5F5;border-bottom: #D1D1D1 1px solid ;font-family: Open+Sans;}.mobilemaximenuck div.level2.maximenuck + .mobilemaximenucksubmenu div.maximenuck > a {padding-top: 12px;padding-right: 26px;padding-bottom: 12px;padding-left: 26px;background: #F5F5F5;background-color: #F5F5F5;border-bottom: #D1D1D1 1px solid ;font-family: Open+Sans;}/* for accordion */
+.mobilemaximenuck .mobilemaximenucktogglericon:after {cursor:pointer;text-align:center;margin-top: 7px;font-size: 25px;color: #1B3A78;line-height: 25px;height: 25px;width: 35px;font-family: ;}
+.mobilemaximenuck .mobilemaximenucktogglericon:after {display:block;position: absolute;right: 0;top: 0;content:"+";}
+.mobilemaximenuck .open .mobilemaximenucktogglericon:after {content:"-";}
+
+
+/* Google Font stylesheets */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+
+/* Custom CSS generated from the plugin options */
+

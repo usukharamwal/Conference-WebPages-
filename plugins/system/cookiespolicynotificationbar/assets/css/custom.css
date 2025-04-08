@@ -1,0 +1,9 @@
+/* BEGIN: Cookies Policy Notification Bar - J! system plugin (Powered by: Web357.eu) */
+#w357_cpnb a.w357_cpnb_button { -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; font-size: 14px; }
+#w357_cpnb a#w357_cpnb_button_ok { color: #1b3a78; background-color: #ffffff; }
+#w357_cpnb a#w357_cpnb_button_ok:hover, #w357_cpnb a#w357_cpnb_button_ok:focus { color: #1b3a78; background-color: #ffffff; }
+#w357_cpnb a#w357_cpnb_button_more { color: #ffffff; background-color: #9b1b30; }
+#w357_cpnb a#w357_cpnb_button_more:hover, #w357_cpnb a#w357_cpnb_button_more:focus { color: #ffffff; background-color: #9b1b30; }
+#w357_cpnb #w357_cpnb_message a { color: #ffffff !important; font-weight: 700; text-decoration: none !important; }
+#w357_cpnb #w357_cpnb_message a:hover { text-decoration: underline !important; }
+/* END: Cookies Policy Notification Bar - J! system plugin (Powered by: Web357.eu) */
