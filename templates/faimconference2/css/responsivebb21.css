@@ -1,0 +1,101 @@
+@media (min-width:1px) and (max-width: 576px){
+	.brand, .navigation {
+		max-width: 49%;
+		width: 100%;
+	}
+	.brand {
+		padding-left: 0px;
+		text-align: left !important;
+	}
+	.navigation {
+		padding: 28px 0px 0px 0px;
+	}
+	
+	.num {
+		padding-right: 15px;
+		padding-left: 0px;
+	}
+	
+	#info .info-box {
+		margin-bottom: 40px;
+	}
+	
+	.twi, .conf {
+		padding-left: 0px;
+	}
+	#twit-conf .fas.fa-download {
+		float: none;
+		display: block;
+		margin-bottom: 14px;
+	}
+	
+	#map .container {
+		max-width: 100%;
+		width: 100%;
+		padding-left: 0px;
+		padding-right: 0px;
+		overflow: hidden;
+	}
+	
+	#sibebar {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	
+	.breadcrumb {
+		padding: 0px 0px;
+	}
+	
+}
+@media (min-width:577px) and (max-width: 768px) {
+	.brand, .navigation {
+		max-width: 49%;
+		width: 100%;
+	}
+	.brand {
+		padding-left: 0px;
+		text-align: left !important;
+	}
+	.navigation {
+		text-align: right;
+		padding: 28px 0px 0px 0px;
+	}
+	
+	.num {
+		padding-right: 15px;
+		padding-left: 0px;
+	}
+	
+	#info .info-box {
+		margin-bottom: 20px;
+	}
+	#info .info-box p {
+		min-height: 70px;
+	}
+	
+	#map .container {
+		max-width: 100%;
+		width: 100%;
+		padding-left: 0px;
+		padding-right: 0px;
+		overflow: hidden;
+	}
+}
+@media (min-width: 769px) and (max-width: 992px) {
+	div#maximenuck92.maximenuckh ul.maximenuck li.maximenuck.level1 > a, div#maximenuck92.maximenuckh ul.maximenuck li.maximenuck.level1 > span.separator {
+		padding-right: 10px !important;
+		padding-left: 10px !important;
+	}
+	.wel {
+		padding-left: 15px;
+	}
+	.num {
+		padding-right: 15px;
+	}
+}
+@media (min-width: 993px) and (max-width: 1200px){
+
+} 
+@media (min-width: 1200px) and (max-width: 1366){
+
+}
